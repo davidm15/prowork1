@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-11-18T19:14:07.923+01:00
+  initializedAtString: 2018-11-18T19:10:02.288+01:00
+  log:
+  - commitID: 1b47b930701122b2c4c7f6d28e43bcf7b4771454
+    mergeA: 
+    mergeB: 
+    authorName: davidm15
+    authorEmail: david.mischak@edu.fh-joanneum.at
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-11-18T19:04:31.000+01:00
+    commitTimeString: 2018-11-18T19:04:31.000+01:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\David\.gitignore
+      projectPath: ..\..\..\..\..\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: README.md
+      fullPath: C:\Users\David\README.md
+      projectPath: ..\..\..\..\..\README.md
+      originalPath: 
+      status: 4
+      staged: 0
